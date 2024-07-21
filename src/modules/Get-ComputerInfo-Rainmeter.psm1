@@ -47,4 +47,4 @@ function Get-ComputerInfo-Rainmeter {
 }
 
 # Exportar la función para que sea accesible desde otros scripts
-Export-ModuleMember -Function Get-ComputerInfo
+Export-ModuleMember -Function Get-ComputerInfo-Rainmeter
