@@ -1,4 +1,4 @@
-# ARKANO Assistance Bot for ArkanoidOS v1.0 (Versión en PowerShell)🤖
+# ARKANO Assistance Bot for ArkanoidOS, v1.0 (Versión en PowerShell)🤖
 
 ¡Bienvenidos! Este es el repositorio oficial del ARKANO Assistance Bot for ArkanoidOS (anteriormente Resurrection OS) (su versión escrita en PowerShell), un script automatizado programado en PowerShell diseñado para facilitar la configuración inicial, personalización, optimización y modificación de ArkanoidOS, y que nuestros usuarios le saquen el máximo partido y jugo al usarlo.
 
